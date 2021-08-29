@@ -1,0 +1,14 @@
+com/navigation6demo/ReactNativeFlipper.java
+ com.navigation6demo.ReactNativeFlipper
+ com.navigation6demo.ReactNativeFlipper$1
+ com.navigation6demo.ReactNativeFlipper$2
+ com.navigation6demo.ReactNativeFlipper$2$1
+com/navigation6demo/MainActivity.java
+ com.navigation6demo.MainActivity
+com/navigation6demo/MainApplication.java
+ com.navigation6demo.MainApplication
+ com.navigation6demo.MainApplication$1
+com/navigation6demo/BuildConfig.java
+ com.navigation6demo.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

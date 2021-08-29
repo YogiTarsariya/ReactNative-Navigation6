@@ -1,0 +1,6 @@
+module Pods_Navigation6Demo {
+  umbrella header "Pods-Navigation6Demo-umbrella.h"
+
+  export *
+  module * { export * }
+}
